@@ -1,0 +1,2 @@
+rootProject.name = "Tamil Shocks Chatapp"
+include ':app'
